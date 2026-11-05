@@ -1,0 +1,19 @@
+name: remote_data_kit_example
+description: App de ejemplo que consume el paquete remote_data_kit.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  remote_data_kit:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true

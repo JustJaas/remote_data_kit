@@ -1,0 +1,19 @@
+name: remote_data_kit
+description: "Cliente HTTP y repositorio base reutilizables, con modelos y manejo de errores simple, y acceso listo para la Rick and Morty API."
+version: 0.1.0
+repository: https://github.com/JustJaas/remote_data_kit.git
+
+environment:
+  sdk: ^3.12.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  test: ^1.25.0
