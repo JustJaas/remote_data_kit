@@ -7,7 +7,7 @@ la [Rick and Morty API](https://rickandmortyapi.com/).
 ## Ejecutar y probar
 
 ```bash
-git clone https://github.com/TU-USUARIO/remote_data_kit.git
+git clone https://github.com/JustJaas/remote_data_kit.git
 cd remote_data_kit
 
 dart pub get
