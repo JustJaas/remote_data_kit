@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.1] - 2026-11-05
+## [1.0.1] - 2026-11-09
 
 ### Fixed
 - Correccion del versionamiento del paquete 
