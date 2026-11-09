@@ -1,6 +1,11 @@
 # Changelog
 
-## [0.1.0] - 2026-11-04
+## [1.0.1] - 2026-11-05
+
+### Fixed
+- Correccion del versionamiento del paquete 
+
+## [1.0.0] - 2026-11-05
 
 ### Added
 - `RemoteClient`: cliente GET con tiempo límite que devuelve JSON decodificado dentro de un `Result`.

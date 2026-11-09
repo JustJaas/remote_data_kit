@@ -1,6 +1,6 @@
 name: remote_data_kit
 description: "Cliente HTTP y repositorio base reutilizables, con modelos y manejo de errores simple, y acceso listo para la Rick and Morty API."
-version: 0.1.0
+version: 1.0.1
 repository: https://github.com/JustJaas/remote_data_kit.git
 
 environment:
